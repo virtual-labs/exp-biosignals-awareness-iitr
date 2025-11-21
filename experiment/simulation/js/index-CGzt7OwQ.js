@@ -12354,7 +12354,7 @@ const Kh = "_instructionBtn_1inkk_169",
     list: yv,
     ecgImage: mv,
   },
-  gv = "/images/eegSignal.png",
+  gv = "images/eegSignal.png",
   Sv = () =>
     b.jsxs("div", {
       className: gt.ecgContainer,
@@ -12454,7 +12454,7 @@ const Kh = "_instructionBtn_1inkk_169",
     list: Ev,
     ecgImage: Av,
   },
-  zv = "/images/emgSignal-D6RQlXCg.png",
+  zv = "images/emgSignal.png",
   pv = () =>
     b.jsxs("div", {
       className: pt.ecgContainer,
