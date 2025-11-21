@@ -12248,7 +12248,7 @@ const Kh = "_instructionBtn_1inkk_169",
     ecgImage: fv,
     ecgImageContainer: sv,
   },
-  dv = "/images/ecgSignal-CnhDXq8K.png",
+  dv = "images/ecgSignal.png",
   ov = () =>
     b.jsxs("div", {
       className: at.ecgContainer,
@@ -12354,7 +12354,7 @@ const Kh = "_instructionBtn_1inkk_169",
     list: yv,
     ecgImage: mv,
   },
-  gv = "/images/eegSignal-Ddo9qfcW.png",
+  gv = "/images/eegSignal.png",
   Sv = () =>
     b.jsxs("div", {
       className: gt.ecgContainer,
