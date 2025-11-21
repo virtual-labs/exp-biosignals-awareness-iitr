@@ -1,0 +1,1 @@
+#### To study and understand the concept of biomedical signals, their different types (such as ECG, EEG, and EMG), and their physiological significance in health monitoring and diagnosis.
