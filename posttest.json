@@ -1,0 +1,51 @@
+[{
+		"question": "Which wave in the ECG corresponds to ventricular repolarization?",
+		"answers": {
+			"a": "P wave",
+			"b": "QRS complex",
+			"c": "T wave",
+			"d": "PR interval"
+		},
+		"correctAnswer": "c"
+	},
+	{
+		"question": "The typical amplitude range of an ECG signal is:",
+		"answers": {
+			"a": "10 – 100 μV",
+			"b": "50 μV – 1 mV",
+			"c": "0.1 – 4 mV",
+			"d": "Above 10 mV"
+		},
+		"correctAnswer": "c"
+	},
+	{
+		"question": "Which EEG rhythm is commonly observed in a relaxed person with eyes closed?",
+		"answers": {
+			"a": "Delta (below 3 Hz)",
+			"b": "Theta (3–8 Hz)",
+			"c": "Alpha (8–13 Hz)",
+			"d": "Beta (above 13 Hz)"
+		},
+		"correctAnswer": "c"
+	},
+	{
+		"question": "The electromyogram (EMG) originates from:",
+		"answers": {
+			"a": "Heart muscles",
+			"b": "Skeletal muscle fiber depolarization and repolarization",
+			"c": "Brain neurons",
+			"d": "Lungs and diaphragm movement"
+		},
+		"correctAnswer": "b"
+	},
+	{
+		"question": "A patient with suspected muscular dystrophy would most likely undergo which test?",
+		"answers": {
+			"a": "ECG",
+			"b": "EEG",
+			"c": "EMG",
+			"d": "None of the above"
+		},
+		"correctAnswer": "c"
+	}
+]
