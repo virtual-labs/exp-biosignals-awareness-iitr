@@ -1,5 +1,5 @@
 <div style="font-family: 'Nunito Sans', sans-serif; font-size: 20px;text-align: justify;" >
-<h2>Theory</h2>
+
 
 Biomedical signals are the physiological signals generated within
 the human body that carry useful information about different
